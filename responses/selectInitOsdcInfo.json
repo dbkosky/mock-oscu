@@ -1,0 +1,27 @@
+{
+    "resultCd": "000",
+    "resultMsg": "Successful",
+    "resultDt": "20230927150514",
+    "data": {
+        "info": {
+            "tin": "P884256738W",
+            "taxprNm": "Sirius Cybernetics Corporation",
+            "bsnsActv": "Others",
+            "bhfId": "00",
+            "bhfNm": "Headquarter",
+            "bhfOpenDt": "20230918",
+            "prvncNm": "Nairobi",
+            "dstrtNm": "Westlands District",
+            "sctrNm": "Westlands",
+            "locDesc": null,
+            "hqYn": "Y",
+            "mgrNm": "Gag Halfrunt",
+            "mgrTelNo": "6322723486",
+            "mgrEmail": "ZAPHOD@JUSTTHISGUYYOUKNOW.COM",
+            "dvcId": "549",
+            "sdcId": "KRACU5346676758",
+            "mrcNo": "KRA57683498",
+            "cmcKey": "QHHTJ8LSXEF6WGMFU6HM6V4PBNN35T76ZQQD7ZUJEL5G9SPZFGQJ"
+        }
+    }
+}

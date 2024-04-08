@@ -1,0 +1,12 @@
+{
+    "resultCd": "000",
+    "resultMsg": "Successful",
+    "resultDt": "20231009110555",
+    "data": {
+        "curRcptNo": 2,
+        "totRcptNo": 2,
+        "intrlData": "5H66GSR3SQEWK23IDA4AJQQAAM",
+        "rcptSign": "VIRDX5LSM3DZYJZY",
+        "sdcDateTime": "20231009110555"
+    }
+}

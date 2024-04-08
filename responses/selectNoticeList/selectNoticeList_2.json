@@ -1,0 +1,33 @@
+{
+    "resultCd": "000",
+    "resultMsg": "Successful",
+    "resultDt": "20231009110555",
+    "data": {
+        "noticeList": [
+            {
+                "noticeNo": 15,
+                "title": "TEST3",
+                "cont": "TEST3",
+                "dtlUrl": "http://HOST_IP:PORT/common/link/ebm/receipt/indexEbmNotice?noticeNo=15",
+                "regrNm": "Admin",
+                "regDt": "20240405155249"
+            },
+            {
+                "noticeNo": 14,
+                "title": "with different details",
+                "cont": "Test notice 101",
+                "dtlUrl": "http://HOST_IP:PORT/common/link/ebm/receipt/indexEbmNotice?noticeNo=14",
+                "regrNm": "Admin",
+                "regDt": "20240402152049"
+            },
+            {
+                "noticeNo": 12,
+                "title": "eTIMS TEST change name",
+                "cont": "eTIMS TEST",
+                "dtlUrl": "http://HOST_IP:PORT/common/link/ebm/receipt/indexEbmNotice?noticeNo=12",
+                "regrNm": "Admin",
+                "regDt": "20240319213731"
+            }
+        ]
+    }
+}
